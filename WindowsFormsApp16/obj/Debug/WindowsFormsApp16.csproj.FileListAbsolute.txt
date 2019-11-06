@@ -1,0 +1,36 @@
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csprojResolveAssemblyReference.cache
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form1.resources
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.Cache
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form2.resources
+C:\Users\STAM\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form3.resources
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csprojAssemblyReference.cache
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form1.resources
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form2.resources
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form3.resources
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+D:\ΠΑ.ΠΕΙ\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csprojAssemblyReference.cache
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form1.resources
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form2.resources
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form3.resources
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+D:\ΠΑ.ΠΕΙ\3ο_Εξάμηνο\Αντικειμενοστρεφεις αναπτυξη εφαρμογων\c# apalaktikh\pentaliza\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb
